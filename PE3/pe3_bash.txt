@@ -1,0 +1,25 @@
+William Dellinger 
+
+1) pwd
+2) touch empty.txt
+3) ls -d empty*
+4) ls *.txt | wc - l
+5) echo william >> empty.txt
+6) mv empty.txt notempty.txt
+7) mkdir pe3_bash
+8) cd pe3_bash
+9) mkdir ../pe3_bash_number2
+10) cd ../pe3_bash_number2
+11) Goes to previous command used 
+12) Goes to next command used
+13) Allows you to perform a search for matching previous command
+14) nano 
+    1) nano file.txt
+    2) ctrl+o and then enter
+    3) ctrl+x
+
+    vim
+    1) vim file.txt
+    2) esc then :w
+    3) esc then :q  to quit or :wq to save and quit
+15) They are always available and lightweight
